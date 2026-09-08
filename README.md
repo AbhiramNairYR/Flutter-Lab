@@ -4,5 +4,5 @@
 ### Result:
 This experiment demonstrates the development of a basic Flutter application using fundamental widgets and layout components. The application is designed as a student profile/dashboard interface and makes use of widgets such as Container, Row, Column, Expanded, Card, ListTile, and ListView to organize and display information. The experiment also covers creating a Flutter project, checking the Flutter environment and available devices, running the application, and modifying the default main.dart file. Through this experiment, the basic concepts of Flutter UI design, widget hierarchy, and responsive layouts are introduced.
 ### Output:
-![EX1 output image](/main/EX1.png)
+![EX1 output image](/EX1.png)
 
