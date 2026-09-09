@@ -35,3 +35,9 @@ This experiment demonstrates the implementation of navigation and routing in a F
 This experiment demonstrates the implementation of animations and smooth transitions in a Flutter application using the AnimatedContainer widget. The application dynamically changes the size of a widget when the user presses the Animate button, with the transition occurring smoothly over a specified duration. By using StatefulWidget, setState(), and AnimatedContainer, students learn the basics of Flutter's implicit animation system and how to create interactive and visually engaging user interfaces.
 ### Output:
 ![EX6 output image](/EX6.png)
+
+## EX7
+### Result:
+This experiment demonstrates application state management and JSON serialization in Flutter by creating a Student model and managing a dynamic list of student data. The application uses toJson() to convert Dart objects into JSON-compatible data and fromJson() to deserialize JSON data back into Dart objects. Using setState() and ListView.builder, the application dynamically updates and displays the student list whenever data changes. Through this experiment, students learn how to manage changing application data and handle structured data serialization and deserialization in Flutter.
+### Output:
+![EX7 output image](/EX7.png)
