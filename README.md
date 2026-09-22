@@ -41,3 +41,10 @@ This experiment demonstrates the implementation of animations and smooth transit
 This experiment demonstrates application state management and JSON serialization in Flutter by creating a Student model and managing a dynamic list of student data. The application uses toJson() to convert Dart objects into JSON-compatible data and fromJson() to deserialize JSON data back into Dart objects. Using setState() and ListView.builder, the application dynamically updates and displays the student list whenever data changes. Through this experiment, students learn how to manage changing application data and handle structured data serialization and deserialization in Flutter.
 ### Output:
 ![EX7 output image](/EX7.png)
+
+## EX8
+### Result:
+This experiment demonstrates data persistence in Flutter using both SQLite and Firebase by storing and retrieving student information through local and cloud databases. In Part A, SQLite is used to create a local students database and perform CRUD (Create, Read, Update, Delete) operations, with data remaining available even after restarting the application. In Part B, Firebase is integrated to store student records in the cloud and retrieve them within the Flutter application. Through this experiment, students learn the difference between local storage and cloud-based persistence and how Flutter applications can interact with both types of databases.
+### Output:
+![EX8 output image](/EX8.png)
+
