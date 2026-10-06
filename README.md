@@ -48,3 +48,26 @@ This experiment demonstrates data persistence in Flutter using both SQLite and F
 ### Output:
 ![EX8 output image](/EX8.png)
 
+## EX9
+### Result:
+This experiment demonstrates how to access and consume REST APIs in a Flutter application using HTTP requests. The application sends a GET request to a REST API, receives data in JSON format, decodes the response using dart:convert, and displays the retrieved information using ListView.builder(). It also implements loading and error handling to provide appropriate feedback while the request is being processed or when the API request fails. Through this experiment, students learn the fundamentals of API integration, JSON data handling, and displaying remote data in Flutter applications.
+### Output:
+![EX9 output image](/EX9.png)
+
+## EX10
+### Result:
+This experiment demonstrates how to configure and build a Flutter application for the Android platform. The process involves verifying the Flutter installation and Android toolchain, accepting the required Android licenses, creating a Flutter project, and running it on an Android device or emulator. The application is then compiled into an APK file using flutter build apk, which can be installed and tested on an Android device. Through this experiment, students learn the basic steps involved in preparing, building, and deploying Flutter applications for Android.
+### Output:
+![EX10 output image](/EX10.png)
+
+## EX11
+### Result:
+This experiment demonstrates how to configure and test a Flutter application for the iOS platform using the required macOS and Xcode development environment. The Flutter project is created and opened in Xcode through the iOS workspace, where an iOS Simulator or physical device can be selected for testing. The application’s UI, navigation, input fields, buttons, images, and screen transitions are verified, followed by building the application for the required iOS distribution target. Through this experiment, students learn the basic process of preparing, testing, and building Flutter applications for iOS.
+### Output:
+![EX11 output image](/EX11.png)
+
+## EX12
+### Result:
+This experiment demonstrates how to develop and build a responsive Flutter application for the Web platform. The application is created and executed in a web browser such as Chrome, using Flutter widgets like Scaffold, AppBar, ElevatedButton, and LayoutBuilder to create an interactive and responsive interface. The layout automatically adapts between mobile and desktop web views based on the browser window size. Finally, the application is compiled into a production web build using flutter build web, generating the required files in the build/web directory.
+### Output:
+![EX12 output image](/EX12.png)
